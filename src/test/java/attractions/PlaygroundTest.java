@@ -3,6 +3,7 @@ package attractions;
 import org.junit.Before;
 import org.junit.Test;
 
+
 import static org.junit.Assert.assertEquals;
 
 public class PlaygroundTest {
@@ -11,6 +12,7 @@ public class PlaygroundTest {
     @Before
     public void setUp() throws Exception {
         playground = new Playground("Fun Zone", 7);
+
     }
 
     @Test
@@ -27,4 +29,5 @@ public class PlaygroundTest {
     public void hasVisitCount() {
         assertEquals(0, playground.getVisitCount());
     }
+
 }
