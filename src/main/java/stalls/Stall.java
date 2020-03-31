@@ -9,11 +9,11 @@ public abstract class Stall implements IReviewed{
     private ParkingSpot parkingSpot;
     private int rating;
 
-    public Stall(String name, String ownerName, ParkingSpot parkingSpot) {
+    public Stall(String name, String ownerName, ParkingSpot parkingSpot, int rating) {
         this.name = name;
         this.ownerName = ownerName;
         this.parkingSpot = parkingSpot;
-        this.rating = 0;
+        this.rating = rating;
     }
 
     public String getName() {

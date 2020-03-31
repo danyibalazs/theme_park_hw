@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5b54f0-9bf6-4a2d-9d63-17154e03fc11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThemeParkStartPoint.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/people/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/people/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/Stall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/CandyflossStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/CandyflossStallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/IceCreamStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/IceCreamStallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stalls/TobaccoStallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/Stall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/Stall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/CandyflossStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/CandyflossStallTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/IceCreamStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/IceCreamStallTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stalls/TobaccoStallTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stalls/TobaccoStallTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,22 +119,22 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585675241019" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585675639424">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585676368263">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585675639424" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585675639422">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585676368263" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585676368262">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585675639422" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585675639421">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585676368262" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585676368262">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585675639421" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585675639423">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585676368262" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585676368262">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585675639423" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585676368262" />
     <state x="397" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1585672628742">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
